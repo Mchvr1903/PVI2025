@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="8" size="100.000000 169.881561" />
+    <ImageTarget name="5" size="100.000000 169.881561" />
+    <ImageTarget name="4" size="100.000000 169.881561" />
+    <ImageTarget name="3" size="100.000000 169.881561" />
+    <ImageTarget name="2" size="100.000000 169.881561" />
+    <ImageTarget name="arduino1" size="100.000000 169.881561" />
+  </Tracking>
+</QCARConfig>
