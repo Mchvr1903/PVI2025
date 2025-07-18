@@ -1,0 +1,174 @@
+Sensor soil moisture akan memberikan sinyal analog yang lebih tinggi jika...
++Tanah sangat basah
++Tanah sangat kering
++Tanah mengandung logam berat
++Tanah dalam keadaan beku
++B
+
+#Jika LED merah menyala, maka kondisi tanah dapat disimpulkan...
++Tanah cukup lembap
++Tanah terlalu basah
++Tanah kering
++Tanah mengandung garam
++C
+
+#Komponen yang digunakan untuk menghubungkan pin Arduino ke breadboard adalah...
++Potensiometer
++Kabel jumper
++Kapasitor
++Resistor
++B
+
+#Jika resistor yang digunakan terlalu besar, maka LED akan...
++Menyala sangat terang
++Tidak menyala
++Menyala normal
++Menyala berkedip
++B
+
+#Fungsi utama LED dalam rangkaian monitoring kelembapan tanah adalah...
++Sebagai indikator visual
++Sebagai sumber tegangan
++Sebagai sensor utama
++Sebagai penyimpan data
++A
+
+#Pin digital Arduino dapat digunakan untuk...
++Membaca sinyal analog
++Mengatur output ke LED
++Mengatur tegangan input sensor
++Menyimpan program
++B
+
+#Jika sensor soil moisture tidak mendapatkan tegangan, maka...
++Sensor tetap dapat membaca kelembapan
++Sensor tidak berfungsi
++LED tetap menyala
++Arduino akan rusak
++B
+
+#LED hijau pada sistem akan mati jika...
++Tanah cukup lembap
++Tanah sangat kering
++Tanah terlalu basah
++Sensor tidak terpasang
++B
+
+#Resistor pada rangkaian LED dipasang secara...
++Paralel dengan LED
++Seri dengan LED
++Seri dengan sensor
++Paralel dengan sensor
++B
+
+#Jika kedua LED tidak menyala, kemungkinan kesalahan adalah...
++Sensor terlalu sensitif
++Resistor terlalu besar
++Tidak ada arus listrik
++Sensor terlalu kecil
++C
+
+#Sensor soil moisture bekerja berdasarkan prinsip...
++Induksi elektromagnetik
++Konduktivitas listrik tanah
++Suhu tanah
++Kapasitansi udara
++B
+
+#Pin GND pada Arduino berfungsi untuk...
++Sumber tegangan utama
++Ground atau referensi nol volt
++Output data sensor
++Input data sensor
++B
+
+#Jika LED merah dan hijau menyala bersamaan, kemungkinan...
++Tanah normal
++Tanah sangat kering
++Tanah sangat basah
++Ada kesalahan rangkaian
++D
+
+#Potensiometer pada modul sensor digunakan untuk mengatur...
++Tegangan output Arduino
++Ambang batas kelembapan
++Tegangan input sensor
++Tegangan LED
++B
+
+#Jika nilai analog yang dibaca sangat rendah, maka tanah dalam kondisi...
++Sangat kering
++Cukup lembap
++Sangat basah
++Normal
++C
+
+#Apa yang terjadi jika sensor soil moisture terbalik polaritasnya?
++Sensor tetap berfungsi
++Sensor rusak
++Nilai pembacaan tidak stabil
++LED menyala lebih terang
++B
+
+#LED pada sistem monitoring kelembapan tanah akan menyala jika...
++Mendapatkan arus listrik yang cukup
++Sensor tidak terpasang
++Resistor terlalu besar
++Arduino dalam mode sleep
++A
+
+#Output digital pada sensor soil moisture biasanya terhubung ke pin...
++Analog Arduino
++Digital Arduino
++VCC Arduino
++GND Arduino
++B
+
+#Jika breadboard tidak digunakan, maka...
++Komponen harus disolder
++Komponen tetap bisa dihubungkan tanpa alat
++Sensor tidak berfungsi
++LED tidak menyala
++A
+
+#Fungsi resistor pada rangkaian sensor adalah...
++Membatasi arus
++Meningkatkan tegangan
++Menyimpan data
++Mengukur suhu
++A
+
+#LED hijau menyala jika...
++Tanah sangat kering
++Tanah cukup lembap
++Tanah sangat basah
++Tanah mengandung logam
++B
+
+#Jika sensor soil moisture terkena air secara berlebihan terus-menerus...
++Sensor akan lebih awet
++Sensor dapat berkarat dan rusak
++Sensor lebih sensitif
++LED lebih terang
++B
+
+#Pin VCC pada sensor soil moisture dihubungkan ke...
++Pin analog A0
++Pin digital D2
++Tegangan 3.3V atau 5V Arduino
++Ground (GND)
++C
+
+#Jika resistor tidak dipasang pada LED, maka...
++LED menyala normal
++LED bisa cepat rusak
++LED tidak menyala
++Sensor tidak berfungsi
++B
+
+#Program Arduino untuk sistem ini umumnya menggunakan perintah...
++analogRead() dan digitalWrite()
++digitalRead() dan analogWrite()
++delay() dan millis()
++Serial.begin() dan Serial.print()
++A

@@ -1,0 +1,172 @@
+Arduino R3 adalah... 
++Jenis sensor
++Mikrokontroler
++LED
++Resistor
++B
+
+#LED adalah singkatan dari... 
++Light Emitting Diode
++Low Electric Device
++Long Electric Distance
++Light Energy Detector
++A
+
+#Resistor berfungsi untuk...
++Menguatkan arus
++Membatasi arus
++Menghasilkan cahaya
++Menyimpan data
++B
+
+#Sensor soil moisture digunakan untuk mengukur...
++Kelembapan tanah
++Suhu udara
++Tekanan air
++Cahaya
++A
+
+#Warna LED yang biasa digunakan sebagai indikator bahaya adalah...
++Hijau
++Merah
++Biru
++Kuning
++B
+
+#Arduino dihubungkan ke komputer menggunakan... 
++Kabel USB
++Kabel HDMI
++Kabel LAN
++Kabel listrik
++A
+
+#LED akan menyala jika mendapat... 
++Arus listrik
++Air
++Udara
++Cahaya
++A
+
+#Breadboard digunakan untuk... 
++Menyolder komponen
++Menghubungkan komponen tanpa solder
++Menyimpan data
++Mengukur suhu
++B
+
+#Pin GND pada Arduino berfungsi sebagai... 
++Ground
++Tegangan
++Output
++Input
++A
+
+#Sensor soil moisture memiliki... 
++Satu probe
++Dua probe
++Tiga probe
++Empat probe
++B
+
+#LED merah biasanya menandakan... 
++Kondisi normal
++Kondisi kering
++Kondisi basah
++Kondisi error
++D
+
+#Resistor memiliki satuan... 
++Ampere
++Ohm
++Watt
++C
+
+#LED hijau biasanya menyala saat... 
++Tanah kering
++kondisi benar
++Sensor rusak
++Resistor putus
++B
+
+#Pin VCC pada sensor dihubungkan ke... 
++Ground
++Tegangan
++LED
++Resistor
++B
+
+#Kabel jumper digunakan untuk...  
++Menghubungkan komponen
++Mengukur suhu
++Menyimpan data
++Menghasilkan cahaya
++A
+
+#Arduino dapat diprogram menggunakan... 
++Microsoft Word
++Arduino IDE
++Photoshop
++Excel
++B
+
+#Sensor soil moisture mendeteksi... 
++Cahaya
++Kelembapan tanah
++Tekanan udara
++Gelombang radio
++B
+
+#LED akan mati jika...
++Tidak ada arus
++Resistor terlalu kecil
++Sensor aktif
++Arduino hidup
++A
+
+#Breadboard biasanya terbuat dari... 
++Kayu
++Plastik
++Kertas
++Besi
++B
+
+#Resistor dipasang pada rangkaian LED untuk... 
++Membatasi arus
++Menghasilkan cahaya
++Menyimpan data
++Mengukur suhu
++A
+
+#LED memiliki dua kaki, yaitu... 
++Anoda dan Katoda
++Plus dan Minus
++Atas dan Bawah
++Kiri dan Kanan
++A
+
+#Sensor soil moisture digunakan pada... 
++Tanaman
++Komputer
++Lampu
++Televisi
++A
+
+#Arduino R3 dapat bekerja dengan tegangan... 
++220V
++5V
++12V
++110V
++B
+
+#LED akan menyala lebih terang jika... 
++Arus terlalu besar
++Arus dibatasi resistor
++Tidak ada resistor
++Sensor tidak aktif
++A
+
+#Resistor biasanya memiliki kode warna untuk... 
++Menunjukkan nilai resistansi
++Menunjukkan umur resistor
++Menunjukkan merk
++Menunjukkan suhu
